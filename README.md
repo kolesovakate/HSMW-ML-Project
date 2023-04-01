@@ -8,6 +8,7 @@ your own which measure you will choose to evaluate this reasonable
 number.
 2. Fit a GMM model with the data and choose the number of components
 regarding your outcome of the 1st task.
+
 Part 2:
 1. You should implement the algorithm assigned to you (SNPC) and train
 it on the given training data. Try to find an optimal number of prototypes
