@@ -18,7 +18,11 @@ classify it with your trained result.
 
 ### On this project were working:
 Kateryna Kolesova
+
 Dmitrii Rudanov
+
 Ekaterina Filonenko
+
 Natalia Stan 
+
 Carolin Tränkner
